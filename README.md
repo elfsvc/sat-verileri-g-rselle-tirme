@@ -1,4 +1,4 @@
-![alt text]([https://example.com/path/to/image.png](https://github.com/elfsvc/satis-verileri-gorsellestirme/blob/main/Poster_A%C4%9F_Programlama.jpg))
+![alt text](https://raw.githubusercontent.com/elfsvc/satis-verileri-gorsellestirme/main/Poster_A%C4%9F_Programlama.jpg)
 
 
 
