@@ -1,4 +1,9 @@
+![Alt text]([https://example.com/path/to/image.png](https://github.com/elfsvc/satis-verileri-gorsellestirme/blob/main/Poster_A%C4%9F_Programlama.jpg))
+
+
+
 Bebek Ürünleri Network Graph Modeli
+
 Projenin Amacı
 Mevcut rekabetçi pazarda, bebek ürünlerinin çeşitliliği, kökenleri ve kategorileri arasındaki ilişkileri anlamak, tedarik zinciri yönetimi ve pazarlama stratejilerinde bilinçli kararlar almamıza olanak tanımaktadır. Üzerinde çalıştığım modelleme, Network Graphs tekniklerini kullanarak bu ilişkileri görselleştirmeyi hedeflemektedir. Bu teknik sayesinde, ürünler, kökenleri ve kategoriler gibi çeşitli varlıklar arasındaki bağlantılar bir graf üzerinde temsil edilerek, stratejik kararları bilgilendirebilecek potansiyel kümeler veya eğilimler tanımlanabilecektir. Bu proje, network modellerine ilişkin değerli içgörüler sunmayı amaçlamaktadır.
 
